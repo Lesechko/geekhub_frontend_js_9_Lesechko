@@ -1,0 +1,8 @@
+body {
+    max-width: 80%;
+    margin: 40px auto;
+}
+
+select {
+    width: 190px;
+}
